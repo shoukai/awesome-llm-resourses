@@ -1,0 +1,21 @@
+[project]
+name = "awesome-llm-resourses"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Shoukai Huang",email = "huangshoukai@yeah.net"}
+]
+readme = "README.md"
+requires-python = "3.13.2"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [
+    {include = "awesome_llm_resourses"}
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
