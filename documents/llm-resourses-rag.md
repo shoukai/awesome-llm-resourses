@@ -29,7 +29,7 @@
 ### RAG 评估与优化工具
 
 * [ragas](https://github.com/explodinggradients/ragas) - RAG 管道评估框架
-* [Chonkie](https://github.com/bhavnicksm/chonkie) - 轻量级、高速的 RAG 文本分块库
+* [Chonkie](https://pypi.org/project/chonkie) - 轻量级、高速的 RAG 文本分块库
 * [RAGLite](https://github.com/superlinear-ai/raglite) - 基于 PostgreSQL 或 SQLite 的 Python RAG 工具包
 * [CAG](https://github.com/hhhuang/CAG) - 通过预加载相关资源和缓存运行时参数利用现代 LLM 的扩展上下文窗口
 * [MiniRAG](https://github.com/HKUDS/MiniRAG) - 通过异构图索引和轻量级拓扑增强检索，使小模型实现良好 RAG 性能的简单框架

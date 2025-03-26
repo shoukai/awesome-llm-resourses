@@ -16,13 +16,21 @@ def extract_github_repo(url):
     if not url or "github.com" not in url:
         return None
     
+    # Skip GitHub feature pages, documentation pages, etc.
+    if re.search(r'github\.com/features/', url) or \
+       re.search(r'github\.com/docs/', url) or \
+       re.search(r'github\.com/about/', url):
+        return None
+    
     match = re.search(r'github\.com/([^/]+/[^/]+)', url)
     if match:
         repo = match.group(1)
         # Remove .git suffix if present
         if repo.endswith('.git'):
             repo = repo[:-4]
-        return repo
+        # Check if this is actually a repo path and not a feature path
+        if '/' in repo and not any(x in repo for x in ['features', 'docs', 'about']):
+            return repo
     return None
 
 def process_list_item(line):

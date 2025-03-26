@@ -51,7 +51,7 @@ RAG (检索增强生成) 是一种结合信息检索与生成模型的技术，�
 | 项目 | 详情 | Stars | 最近更新 |
 | :--- | :--- | :---: | :---: |
 | [ragas](https://github.com/explodinggradients/ragas) | RAG 管道评估框架 | [![GitHub stars](https://img.shields.io/github/stars/explodinggradients/ragas.svg?style=flat-square)](https://github.com/explodinggradients/ragas/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/explodinggradients/ragas.svg?style=flat-square)](https://github.com/explodinggradients/ragas/commits) |
-| [Chonkie](https://github.com/bhavnicksm/chonkie) | 轻量级、高速的 RAG 文本分块库 | [![GitHub stars](https://img.shields.io/github/stars/bhavnicksm/chonkie.svg?style=flat-square)](https://github.com/bhavnicksm/chonkie/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/bhavnicksm/chonkie.svg?style=flat-square)](https://github.com/bhavnicksm/chonkie/commits) |
+| [Chonkie](https://pypi.org/project/chonkie) | 轻量级、高速的 RAG 文本分块库 | N/A | N/A |
 | [RAGLite](https://github.com/superlinear-ai/raglite) | 基于 PostgreSQL 或 SQLite 的 Python RAG 工具包 | [![GitHub stars](https://img.shields.io/github/stars/superlinear-ai/raglite.svg?style=flat-square)](https://github.com/superlinear-ai/raglite/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/superlinear-ai/raglite.svg?style=flat-square)](https://github.com/superlinear-ai/raglite/commits) |
 | [CAG](https://github.com/hhhuang/CAG) | 通过预加载相关资源和缓存运行时参数利用现代 LLM 的扩展上下文窗口 | [![GitHub stars](https://img.shields.io/github/stars/hhhuang/CAG.svg?style=flat-square)](https://github.com/hhhuang/CAG/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/hhhuang/CAG.svg?style=flat-square)](https://github.com/hhhuang/CAG/commits) |
 | [MiniRAG](https://github.com/HKUDS/MiniRAG) | 通过异构图索引和轻量级拓扑增强检索，使小模型实现良好 RAG 性能的简单框架 | [![GitHub stars](https://img.shields.io/github/stars/HKUDS/MiniRAG.svg?style=flat-square)](https://github.com/HKUDS/MiniRAG/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/HKUDS/MiniRAG.svg?style=flat-square)](https://github.com/HKUDS/MiniRAG/commits) |
@@ -152,7 +152,7 @@ RAG 系统的核心组件之一是向量数据库，用于存储和检索文本�
 | :--- | :--- | :---: | :---: |
 | [Devin](https://www.cognition.ai/devin) | Cognition AI开发的自主软件工程师智能体 | N/A | N/A |
 | [Codeium](https://codeium.com/) | 基于AI的代码加速工具，提供智能代码补全和生成 | N/A | N/A |
-| [GitHub Copilot](https://github.com/features/copilot) | GitHub和OpenAI合作的AI编程助手 | [![GitHub stars](https://img.shields.io/github/stars/features/copilot.svg?style=flat-square)](https://github.com/features/copilot/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/features/copilot.svg?style=flat-square)](https://github.com/features/copilot/commits) |
+| [GitHub Copilot](https://github.com/features/copilot) | GitHub和OpenAI合作的AI编程助手 | N/A | N/A |
 | [Cursor](https://www.cursor.so/) | 集成了强大AI能力的代码编辑器 | N/A | N/A |
 | [Bloop](https://github.com/BloopAI/bloop) | 基于Rust的快速代码搜索引擎，支持自然语言搜索 | [![GitHub stars](https://img.shields.io/github/stars/BloopAI/bloop.svg?style=flat-square)](https://github.com/BloopAI/bloop/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/BloopAI/bloop.svg?style=flat-square)](https://github.com/BloopAI/bloop/commits) |
 
@@ -163,13 +163,66 @@ RAG 系统的核心组件之一是向量数据库，用于存储和检索文本�
 | 项目 | 详情 | Stars | 最近更新 |
 | :--- | :--- | :---: | :---: |
 | [AgentBench](https://github.com/THUDM/AgentBench) | 评估LLM作为智能体能力的基准 | [![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench.svg?style=flat-square)](https://github.com/THUDM/AgentBench/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/THUDM/AgentBench.svg?style=flat-square)](https://github.com/THUDM/AgentBench/commits) |
-| [AgentEval](https://github.com/xlang-ai/AgentEval) | 评估LLM智能体在现实世界任务中表现的框架 | [![GitHub stars](https://img.shields.io/github/stars/xlang-ai/AgentEval.svg?style=flat-square)](https://github.com/xlang-ai/AgentEval/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/xlang-ai/AgentEval.svg?style=flat-square)](https://github.com/xlang-ai/AgentEval/commits) |
+| [AgentEval](https://www.agenteval.org/) | 评估LLM智能体在现实世界任务中表现的框架 | N/A | N/A |
 | [ToolBench](https://github.com/OpenBMB/ToolBench) | 大型语言模型工具学习基准 | [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ToolBench.svg?style=flat-square)](https://github.com/OpenBMB/ToolBench/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/OpenBMB/ToolBench.svg?style=flat-square)](https://github.com/OpenBMB/ToolBench/commits) |
 | [AgentSims](https://github.com/py499372727/AgentSims) | 多智能体社会模拟框架 | [![GitHub stars](https://img.shields.io/github/stars/py499372727/AgentSims.svg?style=flat-square)](https://github.com/py499372727/AgentSims/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/py499372727/AgentSims.svg?style=flat-square)](https://github.com/py499372727/AgentSims/commits) |
 
 
 
 
+
+## 搜索 
+
+搜索 (Search) 是一种信息检索技术，能够提供快速、准确的搜索结果。以下是搜索相关优质资源：
+
+### 搜索框架与系统
+
+
+| 项目 | 详情 | Stars | 最近更新 |
+| :--- | :--- | :---: | :---: |
+| [Tavily](https://github.com/tavily-ai/tavily-python) | 专为 AI 应用设计的搜索 API，提供实时、高质量的互联网搜索结果 | [![GitHub stars](https://img.shields.io/github/stars/tavily-ai/tavily-python.svg?style=flat-square)](https://github.com/tavily-ai/tavily-python/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/tavily-ai/tavily-python.svg?style=flat-square)](https://github.com/tavily-ai/tavily-python/commits) |
+| [SearchAPI](https://github.com/zenserp/zenserp-python) | 统一的搜索 API，支持 Google、Bing、Brave 等多个搜索引擎 | [![GitHub stars](https://img.shields.io/github/stars/zenserp/zenserp-python.svg?style=flat-square)](https://github.com/zenserp/zenserp-python/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/zenserp/zenserp-python.svg?style=flat-square)](https://github.com/zenserp/zenserp-python/commits) |
+| [Serper](https://serper.dev/) | 为开发者提供的 Google 搜索 API，专注于性能和可靠性 | N/A | N/A |
+| [SerpAPI](https://github.com/serpapi/serpapi-python) | 实时搜索引擎结果 API，支持 Google、YouTube、Bing 等多平台 | [![GitHub stars](https://img.shields.io/github/stars/serpapi/serpapi-python.svg?style=flat-square)](https://github.com/serpapi/serpapi-python/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/serpapi/serpapi-python.svg?style=flat-square)](https://github.com/serpapi/serpapi-python/commits) |
+| [Metaphor](https://github.com/exa-labs/exa-py) | 基于神经网络的搜索 API，专注于发现互联网上的新内容 | [![GitHub stars](https://img.shields.io/github/stars/exa-labs/exa-py.svg?style=flat-square)](https://github.com/exa-labs/exa-py/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/exa-labs/exa-py.svg?style=flat-square)](https://github.com/exa-labs/exa-py/commits) |
+| [Perplexity](https://www.perplexity.ai/) | AI 驱动的搜索引擎，提供带有引用的回答和实时互联网访问 | N/A | N/A |
+
+
+### 专业搜索工具与集成
+
+
+| 项目 | 详情 | Stars | 最近更新 |
+| :--- | :--- | :---: | :---: |
+| [DuckDuckGo API](https://duckduckgo.com/) | 注重隐私的搜索引擎 API，无跟踪搜索功能 | N/A | N/A |
+| [Bing Search API](https://www.bing.com/) | 微软必应搜索 API，提供网页、图像、视频和新闻搜索功能 | N/A | N/A |
+| [Brave Search API](https://search.brave.com/) | Brave 浏览器的搜索 API，专注于隐私和无偏见结果 | N/A | N/A |
+| [You.com API](https://you.com/) | 面向开发者的 AI 搜索平台，提供定制化搜索体验 | N/A | N/A |
+| [Kagi Search API](https://kagi.com/) | 高级付费搜索引擎 API，提供无广告、高质量搜索结果 | N/A | N/A |
+
+
+### AI Agent 搜索集成框架
+
+
+| 项目 | 详情 | Stars | 最近更新 |
+| :--- | :--- | :---: | :---: |
+| [LangChain Search Tools](https://github.com/langchain-ai/langchain) | LangChain 框架中的搜索工具集成，支持多种搜索引擎 | [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain.svg?style=flat-square)](https://github.com/langchain-ai/langchain/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/langchain-ai/langchain.svg?style=flat-square)](https://github.com/langchain-ai/langchain/commits) |
+| [AutoGen Search Tools](https://github.com/microsoft/autogen) | 微软 AutoGen 框架中的搜索工具集成，支持多代理协作搜索 | [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen.svg?style=flat-square)](https://github.com/microsoft/autogen/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/microsoft/autogen.svg?style=flat-square)](https://github.com/microsoft/autogen/commits) |
+| [CrewAI Web Tools](https://docs.crewai.com/concepts/tools) | CrewAI 框架中的网络搜索工具，支持多智能体协作搜索 | N/A | N/A |
+| [AgentGPT Search](https://github.com/reworkd/agentgpt) | AgentGPT 中的搜索功能，支持自主 AI 代理进行网络搜索 | [![GitHub stars](https://img.shields.io/github/stars/reworkd/agentgpt.svg?style=flat-square)](https://github.com/reworkd/agentgpt/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/reworkd/agentgpt.svg?style=flat-square)](https://github.com/reworkd/agentgpt/commits) |
+| [BabyAGI Search](https://github.com/yoheinakajima/babyagi) | BabyAGI 中的搜索功能，支持任务驱动的自主搜索 | [![GitHub stars](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg?style=flat-square)](https://github.com/yoheinakajima/babyagi/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/yoheinakajima/babyagi.svg?style=flat-square)](https://github.com/yoheinakajima/babyagi/commits) |
+
+
+
+### 搜索增强技术与工具
+
+
+| 项目 | 详情 | Stars | 最近更新 |
+| :--- | :--- | :---: | :---: |
+| [WebGPT](https://openai.com/index/webgpt/) | OpenAI 的网络浏览和搜索增强型 GPT 模型 | N/A | N/A |
+| [GPT-4 with Bing](https://openai.com/index/gpt-4/) | 结合搜索引擎和 GPT 的混合搜索系统 | N/A | N/A |
+| [TREC](https://github.com/usnistgov/trec_eval) | 搜索结果评估工具，用于测量和优化搜索质量 | [![GitHub stars](https://img.shields.io/github/stars/usnistgov/trec_eval.svg?style=flat-square)](https://github.com/usnistgov/trec_eval/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/usnistgov/trec_eval.svg?style=flat-square)](https://github.com/usnistgov/trec_eval/commits) |
+| [Learning to Rank](https://github.com/microsoft/LightGBM/tree/master/examples/lambdarank) | 搜索结果排序优化工具，提高搜索相关性 | [![GitHub stars](https://img.shields.io/github/stars/microsoft/LightGBM.svg?style=flat-square)](https://github.com/microsoft/LightGBM/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/microsoft/LightGBM.svg?style=flat-square)](https://github.com/microsoft/LightGBM/commits) |
+| [Google Analytics](https://github.com/googleapis/google-api-python-client/tree/main/samples/analytics) | 搜索分析工具，提供搜索行为和结果的深入分析 | [![GitHub stars](https://img.shields.io/github/stars/googleapis/google-api-python-client.svg?style=flat-square)](https://github.com/googleapis/google-api-python-client/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/googleapis/google-api-python-client.svg?style=flat-square)](https://github.com/googleapis/google-api-python-client/commits) |
 
 ## 参考来源
 

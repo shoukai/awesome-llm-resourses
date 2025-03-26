@@ -17,6 +17,12 @@ RAG (检索增强生成) 是一种结合信息检索与生成模型的技术，�
 
 <file>/documents/llm-resourses-agent.md</file>
 
+## 搜索 
+
+搜索 (Search) 是一种信息检索技术，能够提供快速、准确的搜索结果。以下是搜索相关优质资源：
+
+<file>/documents/llm-resourses-search.md</file>
+
 ## 参考来源
 
 - [awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses)

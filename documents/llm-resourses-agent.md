@@ -38,7 +38,7 @@
 ### 智能体评估与基准
 
 * [AgentBench](https://github.com/THUDM/AgentBench) - 评估LLM作为智能体能力的基准
-* [AgentEval](https://github.com/xlang-ai/AgentEval) - 评估LLM智能体在现实世界任务中表现的框架
+* [AgentEval](https://www.agenteval.org/) - 评估LLM智能体在现实世界任务中表现的框架
 * [ToolBench](https://github.com/OpenBMB/ToolBench) - 大型语言模型工具学习基准
 * [AgentSims](https://github.com/py499372727/AgentSims) - 多智能体社会模拟框架
 
