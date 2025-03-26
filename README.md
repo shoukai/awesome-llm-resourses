@@ -2,9 +2,10 @@
 
 ## 目录
 
-- [RAG (检索增强生成)](#rag-检索增强生成)
+- [知识库 RAG](#知识库-rag)
+- [智能体 Agents](#智能体-agents)
 
-## RAG (检索增强生成)
+## 知识库 RAG
 
 RAG (检索增强生成) 是一种结合信息检索与生成模型的技术，能够提供准确且富有上下文的回答。以下是 RAG 相关的优质资源：
 
@@ -99,10 +100,90 @@ RAG 系统的核心组件之一是向量数据库，用于存储和检索文本�
 
 
 
+## 智能体 Agents
+
+智能体 (Agent) 是一种能够自主行动的实体，能够与人类进行交互并完成任务。以下是智能体相关优质资源：
+
+### 开源智能体框架
+
+
+| 项目 | 详情 | Stars | 最近更新 |
+| :--- | :--- | :---: | :---: |
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 开源自主GPT-4智能体，能够自主完成任务 | [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT.svg?style=flat-square)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/Significant-Gravitas/AutoGPT.svg?style=flat-square)](https://github.com/Significant-Gravitas/AutoGPT/commits) |
+| [LangChain](https://github.com/langchain-ai/langchain) | 构建LLM应用的框架，提供强大的智能体构建能力 | [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain.svg?style=flat-square)](https://github.com/langchain-ai/langchain/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/langchain-ai/langchain.svg?style=flat-square)](https://github.com/langchain-ai/langchain/commits) |
+| [CrewAI](https://github.com/joaomdmoura/crewAI) | 构建具有自主角色的AI智能体团队的框架 | [![GitHub stars](https://img.shields.io/github/stars/joaomdmoura/crewAI.svg?style=flat-square)](https://github.com/joaomdmoura/crewAI/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/joaomdmoura/crewAI.svg?style=flat-square)](https://github.com/joaomdmoura/crewAI/commits) |
+| [AutoGen](https://github.com/microsoft/autogen) | 微软开源的多智能体对话框架，支持智能体间协作 | [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen.svg?style=flat-square)](https://github.com/microsoft/autogen/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/microsoft/autogen.svg?style=flat-square)](https://github.com/microsoft/autogen/commits) |
+| [AgentGPT](https://github.com/reworkd/AgentGPT) | 浏览器中运行的自主AI智能体 | [![GitHub stars](https://img.shields.io/github/stars/reworkd/AgentGPT.svg?style=flat-square)](https://github.com/reworkd/AgentGPT/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/reworkd/AgentGPT.svg?style=flat-square)](https://github.com/reworkd/AgentGPT/commits) |
+| [BabyAGI](https://github.com/yoheinakajima/babyagi) | 简单但功能强大的自主智能体系统 | [![GitHub stars](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg?style=flat-square)](https://github.com/yoheinakajima/babyagi/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/yoheinakajima/babyagi.svg?style=flat-square)](https://github.com/yoheinakajima/babyagi/commits) |
+| [LlamaIndex](https://github.com/run-llama/llama_index) | 连接LLM与外部数据的数据框架，支持智能体构建 | [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index.svg?style=flat-square)](https://github.com/run-llama/llama_index/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/run-llama/llama_index.svg?style=flat-square)](https://github.com/run-llama/llama_index/commits) |
+| [XAgent](https://github.com/OpenBMB/XAgent) | 自主LLM智能体框架，支持复杂任务规划与执行 | [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/XAgent.svg?style=flat-square)](https://github.com/OpenBMB/XAgent/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/OpenBMB/XAgent.svg?style=flat-square)](https://github.com/OpenBMB/XAgent/commits) |
+
+
+### 专业智能体项目
+
+
+| 项目 | 详情 | Stars | 最近更新 |
+| :--- | :--- | :---: | :---: |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | 多智能体框架，将LLM思维赋予软件公司生产力 | [![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=flat-square)](https://github.com/geekan/MetaGPT/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/geekan/MetaGPT.svg?style=flat-square)](https://github.com/geekan/MetaGPT/commits) |
+| [GPT-Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | 从简单描述生成整个代码库的工具 | [![GitHub stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer.svg?style=flat-square)](https://github.com/gpt-engineer-org/gpt-engineer/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/gpt-engineer-org/gpt-engineer.svg?style=flat-square)](https://github.com/gpt-engineer-org/gpt-engineer/commits) |
+| [CAMEL](https://github.com/camel-ai/camel) | 交流式智能体框架，专注于智能体间协作对话 | [![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel.svg?style=flat-square)](https://github.com/camel-ai/camel/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/camel-ai/camel.svg?style=flat-square)](https://github.com/camel-ai/camel/commits) |
+| [TaskWeaver](https://github.com/microsoft/TaskWeaver) | 微软开源的代码优先智能体框架，专注于任务自动化 | [![GitHub stars](https://img.shields.io/github/stars/microsoft/TaskWeaver.svg?style=flat-square)](https://github.com/microsoft/TaskWeaver/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/microsoft/TaskWeaver.svg?style=flat-square)](https://github.com/microsoft/TaskWeaver/commits) |
+| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 开源自主AI智能体框架，具备长期记忆和工具使用能力 | [![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI.svg?style=flat-square)](https://github.com/TransformerOptimus/SuperAGI/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/TransformerOptimus/SuperAGI.svg?style=flat-square)](https://github.com/TransformerOptimus/SuperAGI/commits) |
+| [OpenDevin](https://github.com/OpenDevin/OpenDevin) | 开源自主软件工程智能体 | [![GitHub stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin.svg?style=flat-square)](https://github.com/OpenDevin/OpenDevin/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/OpenDevin/OpenDevin.svg?style=flat-square)](https://github.com/OpenDevin/OpenDevin/commits) |
+| [Sweep](https://github.com/sweepai/sweep) | AI驱动的GitHub机器人，能够解决问题和实现功能 | [![GitHub stars](https://img.shields.io/github/stars/sweepai/sweep.svg?style=flat-square)](https://github.com/sweepai/sweep/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/sweepai/sweep.svg?style=flat-square)](https://github.com/sweepai/sweep/commits) |
+
+
+### 个人助手智能体
+
+
+| 项目 | 详情 | Stars | 最近更新 |
+| :--- | :--- | :---: | :---: |
+| [Open-Interpreter](https://github.com/KillianLucas/open-interpreter) | 允许LLM在本地运行代码的终端智能体 | [![GitHub stars](https://img.shields.io/github/stars/KillianLucas/open-interpreter.svg?style=flat-square)](https://github.com/KillianLucas/open-interpreter/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/KillianLucas/open-interpreter.svg?style=flat-square)](https://github.com/KillianLucas/open-interpreter/commits) |
+| [GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot) | 开发完整应用的AI开发助手 | [![GitHub stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot.svg?style=flat-square)](https://github.com/Pythagora-io/gpt-pilot/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/Pythagora-io/gpt-pilot.svg?style=flat-square)](https://github.com/Pythagora-io/gpt-pilot/commits) |
+| [Aider](https://github.com/paul-gauthier/aider) | 命令行工具，让AI帮助编写和修改代码 | [![GitHub stars](https://img.shields.io/github/stars/paul-gauthier/aider.svg?style=flat-square)](https://github.com/paul-gauthier/aider/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/paul-gauthier/aider.svg?style=flat-square)](https://github.com/paul-gauthier/aider/commits) |
+| [Continue](https://github.com/continuedev/continue) | 开源编辑器智能体，帮助开发者编写代码 | [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue.svg?style=flat-square)](https://github.com/continuedev/continue/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/continuedev/continue.svg?style=flat-square)](https://github.com/continuedev/continue/commits) |
+| [Smol-ai/developer](https://github.com/smol-ai/developer) | 使用自然语言构建复杂软件的智能体 | [![GitHub stars](https://img.shields.io/github/stars/smol-ai/developer.svg?style=flat-square)](https://github.com/smol-ai/developer/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/smol-ai/developer.svg?style=flat-square)](https://github.com/smol-ai/developer/commits) |
+
+
+### 开发者工具智能体
+
+
+| 项目 | 详情 | Stars | 最近更新 |
+| :--- | :--- | :---: | :---: |
+| [Devin](https://www.cognition.ai/devin) | Cognition AI开发的自主软件工程师智能体 | N/A | N/A |
+| [Codeium](https://codeium.com/) | 基于AI的代码加速工具，提供智能代码补全和生成 | N/A | N/A |
+| [GitHub Copilot](https://github.com/features/copilot) | GitHub和OpenAI合作的AI编程助手 | [![GitHub stars](https://img.shields.io/github/stars/features/copilot.svg?style=flat-square)](https://github.com/features/copilot/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/features/copilot.svg?style=flat-square)](https://github.com/features/copilot/commits) |
+| [Cursor](https://www.cursor.so/) | 集成了强大AI能力的代码编辑器 | N/A | N/A |
+| [Bloop](https://github.com/BloopAI/bloop) | 基于Rust的快速代码搜索引擎，支持自然语言搜索 | [![GitHub stars](https://img.shields.io/github/stars/BloopAI/bloop.svg?style=flat-square)](https://github.com/BloopAI/bloop/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/BloopAI/bloop.svg?style=flat-square)](https://github.com/BloopAI/bloop/commits) |
+
+
+### 智能体评估与基准
+
+
+| 项目 | 详情 | Stars | 最近更新 |
+| :--- | :--- | :---: | :---: |
+| [AgentBench](https://github.com/THUDM/AgentBench) | 评估LLM作为智能体能力的基准 | [![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench.svg?style=flat-square)](https://github.com/THUDM/AgentBench/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/THUDM/AgentBench.svg?style=flat-square)](https://github.com/THUDM/AgentBench/commits) |
+| [AgentEval](https://github.com/xlang-ai/AgentEval) | 评估LLM智能体在现实世界任务中表现的框架 | [![GitHub stars](https://img.shields.io/github/stars/xlang-ai/AgentEval.svg?style=flat-square)](https://github.com/xlang-ai/AgentEval/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/xlang-ai/AgentEval.svg?style=flat-square)](https://github.com/xlang-ai/AgentEval/commits) |
+| [ToolBench](https://github.com/OpenBMB/ToolBench) | 大型语言模型工具学习基准 | [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ToolBench.svg?style=flat-square)](https://github.com/OpenBMB/ToolBench/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/OpenBMB/ToolBench.svg?style=flat-square)](https://github.com/OpenBMB/ToolBench/commits) |
+| [AgentSims](https://github.com/py499372727/AgentSims) | 多智能体社会模拟框架 | [![GitHub stars](https://img.shields.io/github/stars/py499372727/AgentSims.svg?style=flat-square)](https://github.com/py499372727/AgentSims/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/py499372727/AgentSims.svg?style=flat-square)](https://github.com/py499372727/AgentSims/commits) |
+
+
+
+
+
 ## 参考来源
 
 - [awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses)
 - [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)
+
+### 智能体研究论文
+
+* [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442) - Park等 (2023)
+* [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) - Yao等 (2022)
+* [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Lilian Weng (2023)
+* [Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354) - Schick等 (2023)
+* [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842) - Mialon等 (2023)
+* [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) - Xi等 (2023)
 
 ## README 构建
 
