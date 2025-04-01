@@ -4,6 +4,7 @@
 
 - [知识库 RAG](#知识库-rag)
 - [智能体 Agents](#智能体-agents)
+- [MCP](#mcp)
 - [搜索](#搜索)
 
 ## 知识库 RAG
@@ -17,6 +18,12 @@ RAG (检索增强生成) 是一种结合信息检索与生成模型的技术，�
 智能体 (Agent) 是一种能够自主行动的实体，能够与人类进行交互并完成任务。以下是智能体相关优质资源：
 
 <file>/documents/llm-resourses-agent.md</file>
+
+## MCP
+
+MCP (Model Context Protocol) 是一种模型上下文协议，能够提供快速、准确的搜索结果。以下是 MCP 相关优质资源：
+
+<file>/documents/llm-resourses-mcp.md</file>
 
 ## 搜索 
 

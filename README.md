@@ -4,6 +4,7 @@
 
 - [知识库 RAG](#知识库-rag)
 - [智能体 Agents](#智能体-agents)
+- [MCP](#mcp)
 - [搜索](#搜索)
 
 ## 知识库 RAG
@@ -115,9 +116,7 @@ RAG 系统的核心组件之一是向量数据库，用于存储和检索文本�
 | [CrewAI](https://github.com/joaomdmoura/crewAI) | 构建具有自主角色的AI智能体团队的框架 | [![GitHub stars](https://img.shields.io/github/stars/joaomdmoura/crewAI.svg?style=flat-square)](https://github.com/joaomdmoura/crewAI/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/joaomdmoura/crewAI.svg?style=flat-square)](https://github.com/joaomdmoura/crewAI/commits) |
 | [AutoGen](https://github.com/microsoft/autogen) | 微软开源的多智能体对话框架，支持智能体间协作 | [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen.svg?style=flat-square)](https://github.com/microsoft/autogen/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/microsoft/autogen.svg?style=flat-square)](https://github.com/microsoft/autogen/commits) |
 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 浏览器中运行的自主AI智能体 | [![GitHub stars](https://img.shields.io/github/stars/reworkd/AgentGPT.svg?style=flat-square)](https://github.com/reworkd/AgentGPT/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/reworkd/AgentGPT.svg?style=flat-square)](https://github.com/reworkd/AgentGPT/commits) |
-| [BabyAGI](https://github.com/yoheinakajima/babyagi) | 简单但功能强大的自主智能体系统 | [![GitHub stars](https://img.shields.io/github/stars/yoheinakajima/babyagi.svg?style=flat-square)](https://github.com/yoheinakajima/babyagi/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/yoheinakajima/babyagi.svg?style=flat-square)](https://github.com/yoheinakajima/babyagi/commits) |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | 连接LLM与外部数据的数据框架，支持智能体构建 | [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index.svg?style=flat-square)](https://github.com/run-llama/llama_index/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/run-llama/llama_index.svg?style=flat-square)](https://github.com/run-llama/llama_index/commits) |
-| [XAgent](https://github.com/OpenBMB/XAgent) | 自主LLM智能体框架，支持复杂任务规划与执行 | [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/XAgent.svg?style=flat-square)](https://github.com/OpenBMB/XAgent/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/OpenBMB/XAgent.svg?style=flat-square)](https://github.com/OpenBMB/XAgent/commits) |
 
 
 ### 专业智能体项目
@@ -126,12 +125,11 @@ RAG 系统的核心组件之一是向量数据库，用于存储和检索文本�
 | 项目 | 详情 | Stars | 最近更新 |
 | :--- | :--- | :---: | :---: |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 多智能体框架，将LLM思维赋予软件公司生产力 | [![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT.svg?style=flat-square)](https://github.com/geekan/MetaGPT/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/geekan/MetaGPT.svg?style=flat-square)](https://github.com/geekan/MetaGPT/commits) |
-| [GPT-Engineer](https://github.com/gpt-engineer-org/gpt-engineer) | 从简单描述生成整个代码库的工具 | [![GitHub stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer.svg?style=flat-square)](https://github.com/gpt-engineer-org/gpt-engineer/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/gpt-engineer-org/gpt-engineer.svg?style=flat-square)](https://github.com/gpt-engineer-org/gpt-engineer/commits) |
 | [CAMEL](https://github.com/camel-ai/camel) | 交流式智能体框架，专注于智能体间协作对话 | [![GitHub stars](https://img.shields.io/github/stars/camel-ai/camel.svg?style=flat-square)](https://github.com/camel-ai/camel/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/camel-ai/camel.svg?style=flat-square)](https://github.com/camel-ai/camel/commits) |
 | [TaskWeaver](https://github.com/microsoft/TaskWeaver) | 微软开源的代码优先智能体框架，专注于任务自动化 | [![GitHub stars](https://img.shields.io/github/stars/microsoft/TaskWeaver.svg?style=flat-square)](https://github.com/microsoft/TaskWeaver/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/microsoft/TaskWeaver.svg?style=flat-square)](https://github.com/microsoft/TaskWeaver/commits) |
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 开源自主AI智能体框架，具备长期记忆和工具使用能力 | [![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI.svg?style=flat-square)](https://github.com/TransformerOptimus/SuperAGI/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/TransformerOptimus/SuperAGI.svg?style=flat-square)](https://github.com/TransformerOptimus/SuperAGI/commits) |
 | [OpenDevin](https://github.com/OpenDevin/OpenDevin) | 开源自主软件工程智能体 | [![GitHub stars](https://img.shields.io/github/stars/OpenDevin/OpenDevin.svg?style=flat-square)](https://github.com/OpenDevin/OpenDevin/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/OpenDevin/OpenDevin.svg?style=flat-square)](https://github.com/OpenDevin/OpenDevin/commits) |
-| [Sweep](https://github.com/sweepai/sweep) | AI驱动的GitHub机器人，能够解决问题和实现功能 | [![GitHub stars](https://img.shields.io/github/stars/sweepai/sweep.svg?style=flat-square)](https://github.com/sweepai/sweep/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/sweepai/sweep.svg?style=flat-square)](https://github.com/sweepai/sweep/commits) |
+
 
 
 ### 个人助手智能体
@@ -146,18 +144,6 @@ RAG 系统的核心组件之一是向量数据库，用于存储和检索文本�
 | [Smol-ai/developer](https://github.com/smol-ai/developer) | 使用自然语言构建复杂软件的智能体 | [![GitHub stars](https://img.shields.io/github/stars/smol-ai/developer.svg?style=flat-square)](https://github.com/smol-ai/developer/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/smol-ai/developer.svg?style=flat-square)](https://github.com/smol-ai/developer/commits) |
 
 
-### 开发者工具智能体
-
-
-| 项目 | 详情 | Stars | 最近更新 |
-| :--- | :--- | :---: | :---: |
-| [Devin](https://www.cognition.ai/devin) | Cognition AI开发的自主软件工程师智能体 | N/A | N/A |
-| [Codeium](https://codeium.com/) | 基于AI的代码加速工具，提供智能代码补全和生成 | N/A | N/A |
-| [GitHub Copilot](https://github.com/features/copilot) | GitHub和OpenAI合作的AI编程助手 | N/A | N/A |
-| [Cursor](https://www.cursor.so/) | 集成了强大AI能力的代码编辑器 | N/A | N/A |
-| [Bloop](https://github.com/BloopAI/bloop) | 基于Rust的快速代码搜索引擎，支持自然语言搜索 | [![GitHub stars](https://img.shields.io/github/stars/BloopAI/bloop.svg?style=flat-square)](https://github.com/BloopAI/bloop/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/BloopAI/bloop.svg?style=flat-square)](https://github.com/BloopAI/bloop/commits) |
-
-
 ### 智能体评估与基准
 
 
@@ -166,8 +152,29 @@ RAG 系统的核心组件之一是向量数据库，用于存储和检索文本�
 | [AgentBench](https://github.com/THUDM/AgentBench) | 评估LLM作为智能体能力的基准 | [![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench.svg?style=flat-square)](https://github.com/THUDM/AgentBench/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/THUDM/AgentBench.svg?style=flat-square)](https://github.com/THUDM/AgentBench/commits) |
 | [AgentEval](https://www.agenteval.org/) | 评估LLM智能体在现实世界任务中表现的框架 | N/A | N/A |
 | [ToolBench](https://github.com/OpenBMB/ToolBench) | 大型语言模型工具学习基准 | [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/ToolBench.svg?style=flat-square)](https://github.com/OpenBMB/ToolBench/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/OpenBMB/ToolBench.svg?style=flat-square)](https://github.com/OpenBMB/ToolBench/commits) |
-| [AgentSims](https://github.com/py499372727/AgentSims) | 多智能体社会模拟框架 | [![GitHub stars](https://img.shields.io/github/stars/py499372727/AgentSims.svg?style=flat-square)](https://github.com/py499372727/AgentSims/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/py499372727/AgentSims.svg?style=flat-square)](https://github.com/py499372727/AgentSims/commits) |
 
+
+
+
+
+## MCP
+
+MCP (Model Context Protocol) 是一种模型上下文协议，能够提供快速、准确的搜索结果。以下是 MCP 相关优质资源：
+
+### MCP 框架与系统
+
+
+| 项目 | 详情 | Stars | 最近更新 |
+| :--- | :--- | :---: | :---: |
+| [mcp-agent](https://github.com/lastmile-ai/mcp-agent) | 基于模型上下文协议（MCP）构建高效 AI 代理的轻量级框架，支持多种工作流模式 | [![GitHub stars](https://img.shields.io/github/stars/lastmile-ai/mcp-agent.svg?style=flat-square)](https://github.com/lastmile-ai/mcp-agent/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/lastmile-ai/mcp-agent.svg?style=flat-square)](https://github.com/lastmile-ai/mcp-agent/commits) |
+
+
+### MCP 工具与集成
+
+
+| 项目 | 详情 | Stars | 最近更新 |
+| :--- | :--- | :---: | :---: |
+| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | MCP 服务器资源集合，包括各类支持 MCP 协议的服务 | [![GitHub stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers.svg?style=flat-square)](https://github.com/punkpeye/awesome-mcp-servers/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/punkpeye/awesome-mcp-servers.svg?style=flat-square)](https://github.com/punkpeye/awesome-mcp-servers/commits) |
 
 
 
@@ -221,7 +228,6 @@ RAG 系统的核心组件之一是向量数据库，用于存储和检索文本�
 | :--- | :--- | :---: | :---: |
 | [WebGPT](https://openai.com/index/webgpt/) | OpenAI 的网络浏览和搜索增强型 GPT 模型 | N/A | N/A |
 | [GPT-4 with Bing](https://openai.com/index/gpt-4/) | 结合搜索引擎和 GPT 的混合搜索系统 | N/A | N/A |
-| [TREC](https://github.com/usnistgov/trec_eval) | 搜索结果评估工具，用于测量和优化搜索质量 | [![GitHub stars](https://img.shields.io/github/stars/usnistgov/trec_eval.svg?style=flat-square)](https://github.com/usnistgov/trec_eval/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/usnistgov/trec_eval.svg?style=flat-square)](https://github.com/usnistgov/trec_eval/commits) |
 | [Learning to Rank](https://github.com/microsoft/LightGBM/tree/master/examples/lambdarank) | 搜索结果排序优化工具，提高搜索相关性 | [![GitHub stars](https://img.shields.io/github/stars/microsoft/LightGBM.svg?style=flat-square)](https://github.com/microsoft/LightGBM/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/microsoft/LightGBM.svg?style=flat-square)](https://github.com/microsoft/LightGBM/commits) |
 | [Google Analytics](https://github.com/googleapis/google-api-python-client/tree/main/samples/analytics) | 搜索分析工具，提供搜索行为和结果的深入分析 | [![GitHub stars](https://img.shields.io/github/stars/googleapis/google-api-python-client.svg?style=flat-square)](https://github.com/googleapis/google-api-python-client/stargazers) | [![Last commit](https://img.shields.io/github/last-commit/googleapis/google-api-python-client.svg?style=flat-square)](https://github.com/googleapis/google-api-python-client/commits) |
 

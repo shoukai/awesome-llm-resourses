@@ -28,6 +28,5 @@
 
 * [WebGPT](https://openai.com/index/webgpt/) - OpenAI 的网络浏览和搜索增强型 GPT 模型
 * [GPT-4 with Bing](https://openai.com/index/gpt-4/) - 结合搜索引擎和 GPT 的混合搜索系统
-* [TREC](https://github.com/usnistgov/trec_eval) - 搜索结果评估工具，用于测量和优化搜索质量
 * [Learning to Rank](https://github.com/microsoft/LightGBM/tree/master/examples/lambdarank) - 搜索结果排序优化工具，提高搜索相关性
 * [Google Analytics](https://github.com/googleapis/google-api-python-client/tree/main/samples/analytics) - 搜索分析工具，提供搜索行为和结果的深入分析
