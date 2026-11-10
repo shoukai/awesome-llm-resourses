@@ -201,6 +201,15 @@ MCP (Model Context Protocol) 是一种模型上下文协议，能够提供快速
 
 | 项目 | 详情 | Stars | 最近更新 |
 | :--- | :--- | :---: | :---: |
+| [Google Search API by FlashData](https://flashdata.dev/docs/sources/google_search) | Structured Google search results for SEO and research；需要 API Key 和付费 Credits。 | N/A | [源码更新](https://github.com/rocosen/flashdata-mcp/commits/main) |
+| [Google News API by FlashData](https://flashdata.dev/docs/sources/google_news) | News search result links and available metadata for topic research; not article full text；需要 API Key 和付费 Credits。 | N/A | [源码更新](https://github.com/rocosen/flashdata-mcp/commits/main) |
+| [Google Images API by FlashData](https://flashdata.dev/docs/sources/google_images) | Image search result references and URLs for visual search research; not image file delivery；需要 API Key 和付费 Credits。 | N/A | [源码更新](https://github.com/rocosen/flashdata-mcp/commits/main) |
+| [Google Shopping API by FlashData](https://flashdata.dev/docs/sources/google_shopping) | Shopping search results and available offer fields for product research; no stock or checkout-price guarantee；需要 API Key 和付费 Credits。 | N/A | [源码更新](https://github.com/rocosen/flashdata-mcp/commits/main) |
+| [Google Videos API by FlashData](https://flashdata.dev/docs/sources/google_videos) | Google video search result links and available metadata for video research；需要 API Key 和付费 Credits。 | N/A | [源码更新](https://github.com/rocosen/flashdata-mcp/commits/main) |
+| [Google Places API by FlashData](https://flashdata.dev/docs/sources/google_places) | Place search results and available business details for local research; contact fields may be absent；需要 API Key 和付费 Credits。 | N/A | [源码更新](https://github.com/rocosen/flashdata-mcp/commits/main) |
+| [YouTube Search API by FlashData](https://flashdata.dev/docs/sources/youtube_search) | YouTube video search results for topic research, with a requested limit up to 20; result count is not guaranteed；需要 API Key 和付费 Credits。 | N/A | [源码更新](https://github.com/rocosen/flashdata-mcp/commits/main) |
+| [YouTube Extended Search API by FlashData](https://flashdata.dev/docs/sources/youtube_search_extended) | YouTube video search results with a requested limit up to 700; fewer results may be available and pricing differs from standard search；需要 API Key 和付费 Credits。 | N/A | [源码更新](https://github.com/rocosen/flashdata-mcp/commits/main) |
+| [YouTube Suggestions API by FlashData](https://flashdata.dev/docs/sources/youtube_suggestions) | YouTube autocomplete suggestions for keyword and topic research；需要 API Key 和付费 Credits。 | N/A | [源码更新](https://github.com/rocosen/flashdata-mcp/commits/main) |
 | [DuckDuckGo API](https://duckduckgo.com/) | 注重隐私的搜索引擎 API，无跟踪搜索功能 | N/A | N/A |
 | [Bing Search API](https://www.bing.com/) | 微软必应搜索 API，提供网页、图像、视频和新闻搜索功能 | N/A | N/A |
 | [Brave Search API](https://search.brave.com/) | Brave 浏览器的搜索 API，专注于隐私和无偏见结果 | N/A | N/A |
